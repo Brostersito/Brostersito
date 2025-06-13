@@ -17,7 +17,7 @@
   <br><br>
 
   <!-- Imagen decorativa (segunda imagen) -->
-  <img src="https://chat.openai.com/mnt/data/98d2a83db00caf3f4c687f3c51eac379.jpg" height="80" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F915708536734352069%2F&psig=AOvVaw1DSq_t3wwtv1RxkoK5p8DX&ust=1749907513591000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjhteDI7o0DFQAAAAAdAAAAABAe" height="80" />
 
   <br><br><br>
 
