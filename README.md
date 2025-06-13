@@ -8,7 +8,7 @@
   <br><br>
   <pre>
   💼 Programador Web • HTML • MySQL
-  💻 Python • Java • CSS • JavaScript • SQL y más
+  💻 Python • Java • CSS • JavaScript • SQL y Node.js
   🧠 Me apasionan los desafíos y superar límites
   🎵 Música • Anime • Videojuegos
   🐶 Candy (pitbull) • Shadowm (gato oscuro y genial 😼)
